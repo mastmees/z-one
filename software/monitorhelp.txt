@@ -1,0 +1,14 @@
+D(ump)   [adr]
+U(nasm)  [adr]
+F(ill)   from to byte
+C(opy)   from to bytes
+E(dit)   adr
+I(n)     port
+O(ut)    port byte
+G(o)     adr
+X(amine) show registers
+R(ead)   sector adr
+W(write) sector adr
+S(dcard) reset card
+H(hexf)  receive intel hex file
+?        help
